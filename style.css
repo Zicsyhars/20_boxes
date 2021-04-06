@@ -1,0 +1,21 @@
+.blue {
+    background-color: blue;
+}
+.purple {
+    background-color: purple;
+}
+.item {
+    height: 50px;
+    width: 50px;
+}
+.cont {
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    padding: 30px;
+    margin: 10px;
+    border: blue solid 2px;
+}
+.red {
+    background-color: red;
+}
